@@ -1,0 +1,13 @@
+{
+  "name": "spotify-archive",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "^3.7.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
